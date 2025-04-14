@@ -1,2 +1,1 @@
-hlo worldd
-
+"This is a fast-forward test" 
