@@ -1,2 +1,3 @@
 this is my first line in my file1
 my second line for file1
+third line for file1
