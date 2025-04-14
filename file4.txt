@@ -1,2 +1,3 @@
 first line for file4
 second line for file4
+third line for file4
