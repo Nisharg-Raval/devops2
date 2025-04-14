@@ -1,2 +1,3 @@
 first line of file3
 second line of file3
+third line of file3
